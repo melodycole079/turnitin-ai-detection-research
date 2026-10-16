@@ -1,0 +1,9 @@
+text,label,genre,source_id
+"The experiment measured temperature over three trials and compared the mean values.",human,lab,s1
+"The literature review identifies three competing explanations and evaluates their evidence.",human,essay,s2
+"The beam deflection was calculated from the measured load and boundary conditions.",human,engineering,s3
+"The survey responses were coded before the descriptive statistics were computed.",human,research,s4
+"In conclusion, the available evidence suggests a balanced interpretation of the results.",ai_generated,essay,s5
+"This comprehensive analysis explores the important aspects and provides valuable insights.",ai_generated,essay,s6
+"The findings demonstrate a significant relationship between the variables under investigation.",ai_generated,research,s7
+"Overall, the proposed approach offers a robust and effective solution to the problem.",ai_generated,engineering,s8

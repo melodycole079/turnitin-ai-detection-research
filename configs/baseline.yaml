@@ -1,0 +1,6 @@
+random_state: 42
+positive_class: ai_generated
+test_size: 0.25
+max_features: 50000
+n_gram_range: [1, 2]
+# The repository sample is a smoke-test fixture, not a research dataset.

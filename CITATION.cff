@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: AI Text Detection Benchmark
+authors:
+  - family-names: Cole
+    given-names: Melody
+version: 0.1.0
+date-released: 2026-10-16
+license: MIT
+repository-code: https://github.com/melodycole079/turnitin-ai-detection-research
