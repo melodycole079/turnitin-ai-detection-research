@@ -6,6 +6,10 @@ An independent, reproducible NLP benchmark for evaluating a transparent AI-text 
 
 The code and tests are ready for a smoke run. The committed CSV is a tiny synthetic fixture used only to verify the pipeline. It is not a research dataset, and its output must not be presented as a measure of real-world detector accuracy.
 
+## Featured article
+
+The [premium 2026 Turnitin AI Detection Guide](article/turnitin-ai-detection-2026-premium-guide.md) follows the structure of the referenced discussion while removing unverified retrain claims, affiliate promotions, fabricated-looking tool benchmarks, and bypass instructions.
+
 ## Quick start
 
 ```bash
