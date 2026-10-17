@@ -1,9 +1,9 @@
-# Turnitin AI Detection in 2026: What Changed, What Students Should Do, and What the Evidence Supports
+# Turnitin AI Detection 2026: Student Guide
 
 *By Melody Cole — independent student research guide*  
 *Last updated: October 17, 2026*
 
-<!-- SEO title: Turnitin AI Detection 2026: Student Guide and Updates -->
+<!-- SEO title: Turnitin AI Detection 2026: Student Guide -->
 <!-- Meta description: Learn what Turnitin AI detection means in 2026, how it differs from similarity, what to do after a false positive, and how to evaluate claims responsibly. -->
 <!-- Primary keyword: Turnitin AI detection 2026 -->
 
